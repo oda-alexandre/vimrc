@@ -12,7 +12,7 @@
 
 ## INTRODUCTION
 
-Ce repository contient un fichier de configuration vimrc pour utilisation en editeur de texte simple avec copier coller (ctrl+shift+V) depuis ou vers un(e) autre page ou programme, utilisation de la souris et numerotation des lignes.
+Ce repository contient un fichier de configuration vimrc pour utilisation en editeur de texte simple avec copier coller (ctrl+shift+V) depuis ou vers un(e) autre page ou programme, utilisation de la souri et numerotation des lignes.
 
 
 ## INSTALLATION

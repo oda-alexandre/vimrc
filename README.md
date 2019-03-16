@@ -17,10 +17,18 @@ Ce repository contient un fichier de configuration vimrc pour utilisation en edi
 
 ## INSTALLATION
 
+* Téléchargement avec git
 ```
-apt update
 git clone https://github.com/oda-alexandre/vimrc.git ~/vimrc
+```
+
+* Déplacement du vimrc dans le dossier /etc/vim/
+```
 mv -f ~/vimrc/vimrc /etc/vim/
+```
+
+* Suppression des résiduts d'installation
+```
 rm -rf ~/vimrc
 ```
 

@@ -6,28 +6,28 @@
 ## INDEX
 
 - [Introduction](#INTRODUCTION)
-- [Installation](#INSTALLATION)
+- [Install](#INSTALL)
 - [License](#LICENSE)
 
 
 ## INTRODUCTION
 
-Ce repository contient un fichier de configuration vimrc pour utilisation en editeur de texte simple avec copier coller (ctrl+shift+V) depuis ou vers un(e) autre page ou programme, utilisation de la souri et numerotation des lignes.
+This repository contains a file of configuration vimrc custom
 
 
-## INSTALLATION
+## INSTALL
 
-* Téléchargement avec git
+- Download with git
 ```
-git clone https://github.com/oda-alexandre/vimrc.git ~/vimrc
+git clone https://gitlab.com/oda-alexandre/vimrc.git ~/vimrc
 ```
 
-* Déplacement du vimrc dans le dossier /etc/vim/
+- Move of vimrc in the folder /etc/vim/
 ```
 mv -f ~/vimrc/vimrc /etc/vim/
 ```
 
-* Suppression des résiduts d'installation
+- Supp of the residuts of install
 ```
 rm -rf ~/vimrc
 ```
@@ -35,4 +35,4 @@ rm -rf ~/vimrc
 
 ## LICENSE
 
-[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://github.com/oda-alexandre/vimrc_custom/blob/master/LICENSE)
+[![GPLv3+](http://gplv3.fsf.org/gplv3-127x51.png)](https://gitlab.com/oda-alexandre/vimrc_custom/blob/master/LICENSE)

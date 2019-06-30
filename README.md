@@ -1,7 +1,6 @@
 # VIMRC
 
-![vimrc](https://raw.githubusercontent.com/oda-alexandre/vimrc/master/img/logo-vimrc.png)
-
+<img src="https://raw.githubusercontent.com/oda-alexandre/vimrc/master/img/logo-vimrc.png" width="200" height="200"/>
 
 ## INDEX
 

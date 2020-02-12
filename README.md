@@ -1,12 +1,14 @@
 # VIMRC
 
-<img src="https://raw.githubusercontent.com/oda-alexandre/vimrc/master/img/logo-vimrc.png" width="200" height="200"/>
+<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/12904484/unnamed.png" width="200" height="200"/>
 
 ## INDEX
 
-- [Introduction](#INTRODUCTION)
-- [Install](#INSTALL)
-- [License](#LICENSE)
+- [VIMRC](#vimrc)
+  - [INDEX](#index)
+  - [INTRODUCTION](#introduction)
+  - [INSTALL](#install)
+  - [LICENSE](#license)
 
 
 ## INTRODUCTION

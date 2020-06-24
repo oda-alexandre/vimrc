@@ -2,8 +2,6 @@
 
 ![logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/12904484/unnamed.png)
 
-## INDEX
-
 - [VIMRC](#vimrc)
   - [INDEX](#index)
   - [INTRODUCTION](#introduction)
